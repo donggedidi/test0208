@@ -1,0 +1,8 @@
+test_new_msg:
+  test_new_msg_001:
+    recipient: "13800000002"
+    text: "20210213"
+  test_new_msg_002:
+    recipient: "13800000003"
+    text: "你好"
+
